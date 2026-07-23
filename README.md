@@ -25,7 +25,3 @@ An autonomous, high-speed line following robot built around the Pololu QTR-8RC r
 
 * **Language:** Python
 * **Control Algorithm:** Custom PID loop integrating sensor data and encoder feedback for flawless trajectory tracking.
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
